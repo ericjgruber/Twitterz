@@ -9,8 +9,7 @@ I'm following this article for how to get this to work: https://artisansweb.net/
 
 The project uses this library: https://github.com/abraham/twitteroauth.
 
-For this to work, you'll need to create an auth.php file in the project root. In it, you'll need the following, 
-available with a dev account from https://apps.twitter.com/.
+For this to work, you'll need to create an auth.php file in the project root.
 
 The code for that file is as follows:
 
@@ -21,4 +20,6 @@ The code for that file is as follows:
     $consumerSecret = '';
     $accessToken = '';
     $accessTokenSecret = '';
+
+For each PHP variable, add the info you get when creating a dev account at https://apps.twitter.com/.
 
