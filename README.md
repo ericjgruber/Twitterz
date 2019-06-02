@@ -14,10 +14,11 @@ available with a dev account from https://apps.twitter.com/.
 
 The code for that file is as follows:
 
-<?php
 
-$consumerKey = '';
-$consumerSecret = '';
-$accessToken = '';
-$accessTokenSecret = '';
+    <?php
+
+    $consumerKey = '';
+    $consumerSecret = '';
+    $accessToken = '';
+    $accessTokenSecret = '';
 
