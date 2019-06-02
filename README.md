@@ -1,4 +1,4 @@
-*Post Tweets*
+**Post Tweets**
 
 REQUIREMENTS:
 - Credentials from Twitter.
